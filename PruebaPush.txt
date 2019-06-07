@@ -1,1 +1,3 @@
 Se quiere probar que funciona las notificaciones cuando se hace un push al repositorio:
+
+Ya se guarda el mensaje completo dentro de la entidad Item_comment
