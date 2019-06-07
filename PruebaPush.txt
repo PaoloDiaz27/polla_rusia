@@ -1,3 +1,5 @@
 Se quiere probar que funciona las notificaciones cuando se hace un push al repositorio:
 
 Ya se guarda el mensaje completo dentro de la entidad Item_comment
+
+Ahora se necesita organizar la información para que quede almacenada dentro una nueva entidad que tendra el registro de los eventos
