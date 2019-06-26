@@ -1,4 +1,4 @@
-Se quiere probar que funciona las notificaciones cuando se hace un push al repositorio:
+﻿Se quiere probar que funciona las notificaciones cuando se hace un push al repositorio:
 
 Ya se guarda el mensaje completo dentro de la entidad Item_comment
 
@@ -11,3 +11,5 @@ Nueva prueba con nuevo usuario para probar nuevo pusher
 Se realiza nuevamente prueba con nuevo usuario pusher
 
 Se necesita que se envia nuevo push desde usuario diferente, se esta recibiendo un correo extraño
+
+Prueba de nuevo pusher con correo electrónico público
