@@ -13,3 +13,6 @@ Se realiza nuevamente prueba con nuevo usuario pusher
 Se necesita que se envia nuevo push desde usuario diferente, se esta recibiendo un correo extraño
 
 Prueba de nuevo pusher con correo electrónico público
+
+Se realiza prueba para hacer Push con dos commits al tiempo para probar procesamiento de la
+información en Agile Scrum
