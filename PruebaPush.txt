@@ -7,3 +7,5 @@ Ahora se necesita organizar la información para que quede almacenada dentro una 
 Se prueba el procesamiento de la notificación Push enviada por GitHub
 
 Nueva prueba con nuevo usuario para probar nuevo pusher
+
+Se realiza nuevamente prueba con nuevo usuario pusher
