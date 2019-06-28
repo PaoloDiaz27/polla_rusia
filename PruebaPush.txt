@@ -16,3 +16,5 @@ Prueba de nuevo pusher con correo electrónico público
 
 Se realiza prueba para hacer Push con dos commits al tiempo para probar procesamiento de la
 información en Agile Scrum
+
+Prueba de captura de información en Agile Scrum
